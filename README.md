@@ -24,7 +24,7 @@
 <h1 align='center'><b>Abilities</b></h1>
 
 <ul>
-    <li> This is just an UI nothing more, don't expect anything more than just beauty :)</li>
+    <li> This is just an UI process data from backend social u can see backend here https://github.com/ManhVV88/social1 :)</li>
 </ul>
 
 <hr>
